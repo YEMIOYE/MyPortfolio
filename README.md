@@ -1,8 +1,2 @@
-# MyPortfolio
+# myPortfolio
 Random Me
-
-
-
-|
-|
-<3
